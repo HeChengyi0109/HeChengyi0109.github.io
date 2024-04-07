@@ -61,7 +61,7 @@ author:
   #medium           : # URL
   #pinterest        : # Username
   #soundcloud       : # Username
-  #steam            : "Peter_He98542946"
+  steam            : "76561198929548283"
   #telegram         : # URL
   #tumblr           : # Username
   #twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
@@ -69,9 +69,9 @@ author:
   #weibo            : # Username
   #wikipedia        : # Username
   #xing             : # Username
-  #youtube          : "贺程义"
+  #youtube          : "UC2cCCCxRlDUTv4jsb-OV2Kw"
   #zhihu            : # URL
-  #bilibili          : "https://space.bilibili.com/288317624?spm_id_from=333.1007.0.0"
+  bilibili          : "https://space.bilibili.com/288317624?spm_id_from=333.1007.0.0"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
