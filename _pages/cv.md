@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "个人简历"
+permalink: /个人简历/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,13 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育背景
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2024年9月-今 东北大学 控制科学与工程 硕士研究生
+* 2020年9月-2024年6月 东北石油大学 自动化 本科
 
-Work experience
+实习经历
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
