@@ -9,29 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-教育背景
-======
+# 教育背景
 * 2024年9月-今 东北大学 控制科学与工程 硕士研究生
 * 2020年9月-2024年6月 东北石油大学 自动化 本科
 
 实习经历
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+** 2023年7月-8月: 大庆油田第二采油厂仪表大队
+    数据监控：
+    在工作者的引导下，学习并参与了操作站内仪表设备的监控和维护
+    安全保障：
+    重中之重是确保仪表设备的正常工作，防止事故和危险的发生
+* 2021年7月：深圳佳运通电子大庆分公司
+    生产流程参观：
+    组织性进入公司生产车间进行参观，学习了解工艺生产流程
+    仪表设备维护：
+    先学习了各种仪表、传感器的原理及安装，之后进行了仪表的检修和校准等工作
+    
+技能
 ======
 * Skill 1
 * Skill 2
