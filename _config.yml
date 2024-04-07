@@ -43,7 +43,7 @@ author:
   #codepen          : # Username
   #dribbble         : # Username
   github           : "HeChengyi0109"
-  kaggle           : "https://www.kaggle.com/hechengyi"  
+  kaggle           : "hechengyi"  
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -69,9 +69,9 @@ author:
   #weibo            : # Username
   #wikipedia        : # Username
   #xing             : # Username
-  youtube          : "@HeChengyi"
+  youtube          : "HeChengyi"
   #zhihu            : # URL
-
+  bilibili          : "https://space.bilibili.com/288317624?spm_id_from=333.1007.0.0"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
