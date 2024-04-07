@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "hcy.png"
   name             : "贺程义"
   #pronouns         : # example: "she/her"  
   bio              : "控制科学与工程在读学生"
