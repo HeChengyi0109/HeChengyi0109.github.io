@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "贺程义"
-  pronouns         : # example: "she/her"  
+  #pronouns         : # example: "she/her"  
   bio              : "控制科学与工程在读学生"
   location         : "黑龙江 大庆"
   employer         : "东北石油大学"
@@ -69,9 +69,9 @@ author:
   #weibo            : # Username
   #wikipedia        : # Username
   #xing             : # Username
-  youtube          : "贺程义"
+  #youtube          : "贺程义"
   #zhihu            : # URL
-  bilibili          : "https://space.bilibili.com/288317624?spm_id_from=333.1007.0.0"
+  #bilibili          : "https://space.bilibili.com/288317624?spm_id_from=333.1007.0.0"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
